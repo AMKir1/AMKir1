@@ -3,7 +3,7 @@
 #### About me
 
 * I am a 25 year old programmer from Moscow.
-* I learn Java at [Job4j](https://job4j.ru/)
+* I learn Java at [Job4j](https://job4j.ru/).
 * I have a bachelors degree in 'Information Science and Computation Technology' from HSE University [HSE](https://www.hse.ru/en/ba/isct/).
 * I have a masters degree in 'E-Business' from HSE University [HSE](https://www.hse.ru/en/ma/elb/).
 * My Java expirience is more than 3 years.
