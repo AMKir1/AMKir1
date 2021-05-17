@@ -2,10 +2,10 @@
 
 #### About me
 
-* I am 25 year old programmer from Moscow.
+* I am a 25 year old programmer from Moscow.
 * I learn Java at [Job4j](https://job4j.ru/)
-* I completed a Bachelor’s Programme 'Information Science and Computation Technology' at HSE University [HSE](https://www.hse.ru/en/ba/isct/).
-* I completed a Master's Programme 'E-Business' at HSE University [HSE](https://www.hse.ru/en/ba/isct/).
+* I have a bachelors degree in 'Information Science and Computation Technology' from HSE University [HSE](https://www.hse.ru/en/ba/isct/).
+* I have a masters degree in 'E-Business' from HSE University [HSE](https://www.hse.ru/en/ma/elb/).
 * My Java expirience is more than 3 years.
 
 -----------
@@ -16,7 +16,7 @@
 ![Maven](https://img.shields.io/badge/Maven-3-red)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%209-blue)
 ![Travis](https://img.shields.io/badge/Travis-CI-succes)
-#### Here is my study projects:
+#### Here are my study projects:
 ##### Lessons of:
 1. [Java SE, SQL & JDBC, GC and OOD, Multithreading in Java](https://github.com/AMKir1/junior)
 ##### Projects:
